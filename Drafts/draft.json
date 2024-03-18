@@ -1,0 +1,32 @@
+[
+  {
+    "file_name": "data\\skill-set\\Django\\django.md",
+    "header": "Django",
+    "items": [
+      "debugging"
+    ]
+  },
+  {
+    "file_name": "data\\summary\\java\\java-developer-summary1.md",
+    "header": "Java",
+    "items": [
+      "very good",
+      "expert in DS"
+    ]
+  },
+  {
+    "file_name": "data\\projects\\Django-Projects\\Django-projects.md",
+    "header": "Project Name",
+    "items": [
+      "size",
+      "performance"
+    ]
+  },
+  {
+    "file_name": "data\\summary\\java\\java-architect-summary.md",
+    "header": "Java",
+    "items": [
+      "exp 5 years"
+    ]
+  }
+]

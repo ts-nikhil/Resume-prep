@@ -1,0 +1,61 @@
+
+#checkboxList{
+    border: 2px solid #b6b3b3;
+        padding: 3%;
+        width: 100%;
+        height: 100vh;
+        overflow: auto;
+}
+#md-content-container{
+    border: 2px solid #b6b3b3; 
+    width: 100%;
+    height: 100vh;
+    list-style-type: none;
+    padding: 10px;
+    overflow: auto;
+  
+}
+h4{
+    margin:0px
+}
+.file-content{
+    border: 2px solid #b6b3b3;
+   width: 75%; 
+   margin:2%;
+   margin: 10px 0;
+    padding: 10px;
+}
+button{
+    float:right;
+font-size: medium   ;
+margin:2%
+}
+#md-content-container div {
+    
+    cursor: move;
+}
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+#checkboxList input{
+    margin-right:10px;
+}
+#md-content-container input{
+    margin-right:10px;
+}
